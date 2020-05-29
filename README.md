@@ -1,4 +1,4 @@
-# Real-Estate-Price-Predict
+# Real-Estate-Price-Prediction
 Machine learning model to predict the prices of homes in Bengaluru, India.
 Used sklearn and linear regression to build the model using a home prices data set from kaggle.com.
 Optimized Linear, Lasso, and Random Forest Regressors using GridSearchCV to find the best model.
